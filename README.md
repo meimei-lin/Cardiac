@@ -1,4 +1,4 @@
-# Frequency Domain and Spatial Domain Fusion Image Segmentation
+# Cardiac Website
 
 This is the repository that contains source code for the [Cardiac website](https://meimei-lin.github.io/Cardiac/).
 
